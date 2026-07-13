@@ -1,0 +1,9 @@
+{
+    "name": "damage-numbers",
+    "displayName": "Damage Numbers",
+    "author": "TuNombre",
+    "description": "Muestra números de daño flotantes",
+    "version": "1.0",
+    "minGameVersion": 159,
+    "main": "damage_numbers.DamageNumbersMod"
+}
