@@ -34,12 +34,12 @@ public class DamageNumbersMod extends Mod {
     private boolean showEnemyUnitDamage = true;
     private boolean showAllyBuildingDamage = true;
     private boolean showEnemyBuildingDamage = true;
-    private float labelLifetimeTicks = 40f;
+    private float labelLifetimeTicks = 0.8f;
     private float fontSize = 1f;
-    private float iconSize = 6f;      // tamano del icono dibujado, en unidades de mundo
+    private float iconSize = 8f;      // tamano del icono dibujado, en unidades de mundo
     private float iconOffsetX = 4f;   // que tanto se corre el icono a la izquierda del numero
     private float holdSeconds = 0.15f; // tiempo quieto antes de empezar a flotar
-    private float riseSpeed = 8f;      // velocidad de ascenso, en unidades de mundo por segundo
+    private float riseSpeed = 14f;      // velocidad de ascenso, en unidades de mundo por segundo
     private String damageMode = "raw";
 
     // --- Memoria de vida ---
