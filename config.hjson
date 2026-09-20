@@ -1,0 +1,13 @@
+{
+    "showAllyUnitDamage": true,
+    "showEnemyUnitDamage": true,
+    "showAllyBuildingDamage": true,
+    "showEnemyBuildingDamage": true,
+    "labelLifetimeTicks": 1,
+    "iconSize": 8,
+    "iconOffsetX": 10,
+    "fontSize": 2,
+    "holdSeconds": 0.15,
+    "riseSpeed": 8,
+    "damageMode": "raw"
+}
