@@ -1,8 +1,0 @@
-{
-    "showAllyUnitDamage": true,
-    "showEnemyUnitDamage": true,
-    "showAllyBuildingDamage": true,
-    "showEnemyBuildingDamage": true,
-    "labelLifetimeTicks": 40,
-    "damageMode": "raw"
-}
