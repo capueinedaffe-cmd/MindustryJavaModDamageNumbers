@@ -4,6 +4,6 @@
     "author": "Rain",
     "description": "FLOATING TEXT DAMAGE BROOO!!!!!!",
     "version": "1.0.1",
-    "minGameVersion": 158,
+    "minGameVersion": 160.5,
     "main": "damage_numbers.DamageNumbersMod"
 }
